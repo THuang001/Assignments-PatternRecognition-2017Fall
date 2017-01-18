@@ -1,4 +1,4 @@
-## BP for a three layers Neural Networks, mean square loss
+## BP for a three layers Neural Network, mean square loss
 
 import numpy as np
 import matplotlib.pyplot as plt
